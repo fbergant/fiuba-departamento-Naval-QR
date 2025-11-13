@@ -15,7 +15,7 @@ Repositorio institucional con acceso QR a la presentación oficial en PDF y enla
 
 > Escaneá el siguiente código para abrir la presentación PDF desde tu celular.
 
-![QR Departamento Naval](QR%20valido%20NAVAL.png)
+<img src="QR%20valido%20NAVAL.png" alt="QR Departamento Naval" width="200">
 
 ---
 
